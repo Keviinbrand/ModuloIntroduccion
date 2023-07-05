@@ -2,6 +2,7 @@ Algoritmo suma3Numeros
 	definir p Como Entero
 	definir j Como Entero
 	definir l como entero
+	definir suma como entero
 
 	
 	
@@ -13,7 +14,10 @@ Algoritmo suma3Numeros
 	mostrar "Ingrese el tercer número"
 	leer l
 	
-	mostrar p + j + l
+	suma = p + j + l
+	
+	
+	mostrar suma
 	
 	
 FinAlgoritmo
