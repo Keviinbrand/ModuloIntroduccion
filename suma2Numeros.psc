@@ -1,6 +1,7 @@
 Algoritmo suma2Numeros
 	definir x Como Entero
 	definir k Como Entero
+	definir suma como entero
 	
 	
 	
@@ -12,7 +13,9 @@ Algoritmo suma2Numeros
 	leer k
 	
 	
-	mostrar x + k
+	suma = x + k
+	
+	mostrar suma
 	
 	
 FinAlgoritmo
